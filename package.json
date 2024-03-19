@@ -1,0 +1,29 @@
+{
+  "name": "tea-deploy-platform",
+  "version": "1.0.0",
+  "description": "Deploy your applications seamlessly, with tools for efficient deployment and management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/galacticgale/tea-deploy-platform"
+  },
+  "author": "galacticgale",
+  "license": "MIT",
+  "dependencies": {
+    "tea-deploy-platform": "1.0.0",
+    "tea-deploy-monitor": "1.0.0",
+    "xml2js": "1.0.0",
+    "web3-react": "1.0.0",
+    "dotenv": "1.0.0",
+    "multer": "1.0.0",
+    "cheerio": "1.0.0",
+    "truffle": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "chalk": "1.0.0",
+    "jquery": "1.0.0",
+    "jest": "1.0.0"
+  }
+}
